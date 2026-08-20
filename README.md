@@ -245,39 +245,6 @@ SQL and Power BI validation measures were used to confirm historical vehicle cou
 - Data-quality reconciliation
 - Executive dashboard design
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── inventory-aging-dashboard.png
-├── Age of Inventory Dashboard.pbix
-├── dax/
-│   └── inventory-measures.dax
-├── sql/
-│   └── inventory-validation.sql
-└── python/
-    └── inventory-validation.py
-```
-
-Only include the DAX, SQL, and Python folders if those files are actually included in the repository.
-
-## Privacy and Data Security
-
-This repository is intended to demonstrate business-intelligence development, data modeling, and inventory-analysis skills.
-
-The public version should not include:
-
-- Complete VINs
-- Customer information
-- Proprietary operational data
-- Company credentials
-- Database connection strings
-- Internal server names
-- Confidential facility information
-
-Screenshots and sample datasets should be anonymized, aggregated, or created using synthetic data.
-
 ## Author
 
 **Joel Perez**
