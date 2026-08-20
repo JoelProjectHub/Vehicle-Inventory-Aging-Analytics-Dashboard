@@ -1,10 +1,6 @@
 # Vehicle Inventory Aging Analytics Dashboard
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white" alt="DAX">
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white" alt="DAX"><img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" alt="SQL"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 An interactive Power BI dashboard for monitoring vehicle inventory age, identifying aging units, and evaluating operational progress through allocation, completion, release, and shipment.
 
